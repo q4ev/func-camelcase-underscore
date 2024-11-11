@@ -1,6 +1,9 @@
 <?php
 
-class func
+namespace q4ev\utils;
+
+
+class camelcaseUnderscoreTrait
 {
 	public static function camelcase2underscore ($string)
 	{
