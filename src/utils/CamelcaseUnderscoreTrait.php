@@ -3,7 +3,7 @@
 namespace q4ev\utils;
 
 
-class camelcaseUnderscoreTrait
+trait camelcaseUnderscoreTrait
 {
 	public static function camelcase2underscore ($string)
 	{
